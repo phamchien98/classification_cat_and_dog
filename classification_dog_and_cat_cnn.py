@@ -10,10 +10,6 @@ Original file is located at
 # Code to read csv file into Colaboratory:
 
 
-!unzip /content/cat_and_dog.zip -d /content/cat_and_dog
-!unzip /content/cat_and_dog/training_set.zip -d /content/cat_and_dog/training_set
-!unzip /content/cat_and_dog/test_set.zip -d /content/cat_and_dog/test_set
-
 ls ./cat_and_dog/training_set/training_set/
 
 import cv2
